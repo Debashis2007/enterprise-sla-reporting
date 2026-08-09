@@ -1,7 +1,7 @@
 # Design: Enterprise SLA Reporting
 
 **Project:** `enterprise-sla-reporting`  
-**Parent system design:** `05-model-monitoring-observability.md`
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](../05-model-monitoring-observability.md)
 
 ## 1. What this POC demonstrates
 
