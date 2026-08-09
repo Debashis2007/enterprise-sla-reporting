@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [05 — Model Monitoring & Behavior Observability](./05-model-monitoring-observability.md)
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](https://github.com/Debashis2007/enterprise-sla-reporting/blob/main/05-model-monitoring-observability.md)
 
 ## Users & problem
 
