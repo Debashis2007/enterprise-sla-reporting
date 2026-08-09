@@ -1,5 +1,7 @@
 # Use Case: Enterprise SLA Reporting
 
+**YouTube walkthrough:** [Enterprise Sla Reporting — System Design #Shorts](https://youtu.be/pplbZInzQqk)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -47,6 +49,9 @@ Reuse infra metrics taxonomy from **05**; isolate tenant labels carefully (cardi
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Enterprise Sla Reporting — System Design #Shorts](https://youtu.be/pplbZInzQqk)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
